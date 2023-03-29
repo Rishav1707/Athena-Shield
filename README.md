@@ -1,12 +1,16 @@
 
-# women_app
+# Athena Shield
+
+![AthenaShield-removebg-preview](https://user-images.githubusercontent.com/97666287/228604299-66bc2b6e-dc47-4a2f-9b9d-eb3ac25e3d2a.png)
+
+
 ### Table of contents
 - [System requirements](#system-requirements)
-- [Figma design guidelines for better UI accuracy](#figma-design-guideline-for-better-accuracy)
-- [Check the UI of the entire app](#app-navigations)
-- [Application structure](#project-structure)
-- [How to format your code?](#how-you-can-do-code-formatting)
-- [How you can improve code readability?](#how-you-can-improve-the-readability-of-code)
+- [Figma design guidelines for better UI accuracy](#figma-design-guidelines-for-better-ui-accuracy)
+- [Check the UI of the entire app](#check-the-ui-of-the-entire-app)
+- [Application structure](#application-structure)
+- [How to format your code?](#how-to-format-your-code)
+- [How you can improve code readability?](#how-you-can-improve-code-readability)
 - [Libraries and tools used](#libraries-and-tools-used)
 - [Support](#support)
 
